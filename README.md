@@ -26,9 +26,9 @@ Use the *.sh scripts. For example, we can train and test EPHGT on sdd dataset by
 ./train_sdd.sh && ./test_sdd.sh
 ```
 ### Data
--Please download from 
--https://pan.baidu.com/s/1s5Vp54mhF06ohrLxEz2I2g
--提取码: 4j84
+- Please download from 
+- https://pan.baidu.com/s/1s5Vp54mhF06ohrLxEz2I2g
+- 提取码: 4j84
 
 ### Citation
 If you find this work useful in your research, please consider cite:
